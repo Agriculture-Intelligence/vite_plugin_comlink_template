@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# TypeScript + React + Vite + Comlink Web Workers
 
 This template should help get you started developing with easy-to-use Comlink Web Workers in no time. Visit the [vite-plugin-comlink repo](https://github.com/mathe42/vite-plugin-comlink) for more information.
 
